@@ -1,7 +1,6 @@
 # RS-TOOL
-A SIMPLE RECON SCANNER TOOL
+A SIMPLE RECON SCANNER TOOL by ~harsh gupta
 
-# RS TOOL
 
 <img width="1843" height="370" alt="image" src="https://github.com/user-attachments/assets/1e89c3d9-2c95-4262-861e-68c7f5bf770e" />
 
